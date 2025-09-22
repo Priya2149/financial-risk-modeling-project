@@ -1,6 +1,6 @@
 # Financial Risk Modeling Project
 
-This repository showcases my hands-on work in **quantitative research and financial risk modeling**, inspired by the **JPMorgan Chase Quantitative Research Virtual Experience Program (Forage)**.  
+This project contains my completed work from the **JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage**. It demonstrates applied skills in **forecasting, risk modeling, and credit analysis** using Python and real-world style financial datasets. All code, and documentation were done by me, with outputs published here as proof of completion.
 
 The project demonstrates practical applications of data science and machine learning in finance, covering:
 - Time series forecasting of commodity prices  
